@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/nreveren/prf/ft_printf.c
+ft_printf.h
+/Users/nreveren/prf/ft_printf.h
+
+/Users/nreveren/prf/ft_printf.h
+stdarg.h
+-
+stdlib.h
+-
+unistd.h
+-
+stdio.h
+-
+
+/Users/nreveren/prf/ft_printf_out.c
+ft_printf.h
+/Users/nreveren/prf/ft_printf.h
+
+/Users/nreveren/prf/main.c
+ft_printf.h
+/Users/nreveren/prf/ft_printf.h
+
